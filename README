@@ -1,0 +1,6 @@
+USAGE
+
+1. Copy the files to your php server.
+2. Configure using config.php
+3. Execute.
+4. OPTIONAL: Create a cron job to schedule your backup.
